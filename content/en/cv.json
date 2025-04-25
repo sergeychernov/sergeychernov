@@ -1,0 +1,122 @@
+{
+  "name": "Balu",
+  "profession": "FeelGood Manager",
+  "profileImage": "assets/images/profile.jpg",
+  "contact": {
+    "address": "The Cozy Kennel, Dogtown",
+    "email": "balu@weisser.dev",
+    "phone": "+1 (555) 123-4567",
+    "web": {
+      "url": "https://github.com/weisser-dev",
+      "title": "GitHub"
+    }
+  },
+  "socialLinks": [
+    {
+      "name": "Dogster",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
+    },
+    {
+      "name": "Pawbook",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
+    }
+  ],
+  "profile": "An enthusiast for long walks and hearty treats, dedicated to spreading joy and relaxation. With several years of experience in tail-wagging and ball-chasing, I understand how to bring comfort and happiness to the surroundings.",
+  "education": [
+    {
+      "title": "Advanced Treat Negotiations",
+      "institution": "Canine University",
+      "year": "2019 - 2020"
+    },
+    {
+      "title": "Bachelor of Belly Rubs",
+      "institution": "Puppy Ivy League",
+      "year": "2018 - 2019"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Junior FeelGood Manager",
+      "company": "Happy Paws",
+      "period": "2017 - 2019",
+      "description": "Responsible for welcoming visitors with joyful barking<br>now support for line breaks\r\n and ensuring optimal happiness levels in the facility.",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
+      "skills": [
+        "barking",
+        "joy",
+        "cuddling",
+        "petting",
+        "sleeping"
+      ]
+    },
+    {
+      "title": "Chief Cuddle Officer",
+      "company": "Bark and Snuggle",
+      "period": "2014 - 2017",
+      "shortDescription": "short descriptions available now!",
+      "description": "Providing essential cuddling services to customers to enhance their emotional well-being and reduce stress levels.",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Certified Stuffed Animal",
+      "description": "Graduated with honors from the Good Doggo School and specialized in imitating a stuffed animal.",
+      "date": "2021-06",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
+      "certificationId": "GB-12345"
+    },
+    {
+      "title": "Professional Bark Master",
+      "description": "Certified in advanced barking techniques and silent surveillance to ensure property security without noise.",
+      "date": "2022-11",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
+      "certificationId": "PB-12345"
+    },
+    {
+      "title": "Expert in Fetching",
+      "description": "Recognized for outstanding skills in fetching and never missing a ball or frisbee.",
+      "date": "2023-01",
+      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
+      "certificationId": "EF-23345"
+    }
+  ],
+  "references": [
+    {
+      "title": "Head of Treat Factory",
+      "name": "Luna Doe",
+      "contact": {
+        "phone": "+1 (555) 789-0123",
+        "email": "luna@weisser.dev",
+        "web": {
+          "title": "LinkedIn",
+          "url": "https://github.com/weisser-dev"
+        }
+      }
+    }
+  ],
+  "skills": [
+    "Fetching",
+    "Running",
+    "Jumping",
+    "Sniffing",
+    "Barking",
+    "Swimming",
+    "Cuddling",
+    "Playing",
+    "Obedience",
+    "Treats",
+    "Fast running",
+    "Fetching water"
+  ],
+  "languages": {
+    "Barking": 80,
+    "Howling": 60,
+    "Whining": 20
+  },
+  "interests": {
+    "Coding": "bx-code-alt",
+    "Coffee": "bxs-coffee-togo",
+    "Travel": "bxs-plane-alt"
+  }
+}
